@@ -24,4 +24,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [HentaiDoge儲存庫]([https://github.com/](https://github.com/adad09382/HentaiDoge-LineBot))
+- [HentaiDoge儲存庫](<[http://example.com/](https://github.com/adad09382/HentaiDoge-LineBot)>)
+z
